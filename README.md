@@ -1,0 +1,2 @@
+# haidra-pyinstaller-test
+ 
